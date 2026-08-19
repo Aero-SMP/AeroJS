@@ -4,4 +4,4 @@ Modified for testing recognition and showing a screen to indicate a required res
 
 Modified again since the last update to LinkedJS did not seperate .md or .txt files that mention another location :p
 
-Testing something regarding Button Scaling
+Testing something regarding Button Scaling.
