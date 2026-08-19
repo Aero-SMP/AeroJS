@@ -1,1 +1,3 @@
 Temporary File.
+
+Modified for testing Startup Scripts recognition and showing a screen to indicate a required restart.
