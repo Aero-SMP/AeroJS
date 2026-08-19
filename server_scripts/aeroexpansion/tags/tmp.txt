@@ -1,3 +1,5 @@
 Temporary File.
 
 Modified for testing Startup Scripts recognition and showing a screen to indicate a required restart.
+
+Modified again since the last update to LinkedJS did not seperate .md or .txt files that mention Startup scripts :p
